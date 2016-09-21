@@ -50,7 +50,7 @@ options:
      required: true
    interface:
      description:
-        - Endpoint type : ie 'public', 'internal', 'admin' (v3 format).
+        - Endpoint type (ie 'public', 'internal', 'admin') (v3 format).
      required: false
    url:
      description:
